@@ -80,7 +80,7 @@ Bu haklarınızı kullanmak için aşağıdaki iletişim adresine başvurabilirs
 
 Gizlilik politikamızla ilgili sorularınız için:
 
-**E-posta:** alihancaliskan12@gmail.com  
+**E-posta:** ztstudio.dev@gmail.com 
 **Geliştirici:** ZT Studio
 
 ## 11. Politika Güncellemeleri
