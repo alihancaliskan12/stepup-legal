@@ -2,11 +2,21 @@
 
 **StepUp — ZT Studio**
 
-Hesabınızı ve tüm ilişkili verilerinizi silmek için aşağıdaki e-posta adresine talepte bulunabilirsiniz.
+Hesabınızı ve tüm ilişkili verilerinizi iki şekilde kalıcı olarak silebilirsiniz.
 
-## Nasıl Talep Edilir?
+## 1. Uygulama içinden (anında)
 
-**E-posta:** ztstudio.dev@gmail.com  
+1. StepUp'ı açın
+2. **Profil → Ayarlar** (sağ üst)
+3. **Hesabı Sil**'e dokunun ve onaylayın
+
+Bu işlem hesabınızı ve tüm verilerinizi sunucularımızdan **anında, kalıcı ve geri alınamaz** şekilde siler.
+
+## 2. E-posta ile (uygulamaya erişiminiz yoksa)
+
+Kayıtlı e-posta adresinizden aşağıdaki adrese talepte bulunun:
+
+**E-posta:** info@ztstudio.dev  
 **Konu:** Hesap Silme Talebi  
 **İçerik:** Kayıtlı e-posta adresinizi ve "Hesabımın silinmesini talep ediyorum" yazısını ekleyin.
 
@@ -24,4 +34,4 @@ Talebiniz alındıktan sonra **30 gün** içinde aşağıdaki veriler kalıcı o
 
 ## İletişim
 
-Her türlü soru için: ztstudio.dev@gmail.com
+Her türlü soru için: info@ztstudio.dev
